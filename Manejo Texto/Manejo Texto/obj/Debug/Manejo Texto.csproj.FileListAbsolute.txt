@@ -1,0 +1,15 @@
+C:\Users\APRENDIZ\source\repos\Manejo Texto\Manejo Texto\obj\Debug\Manejo Texto.csproj.AssemblyReference.cache
+C:\Users\APRENDIZ\source\repos\Manejo Texto\Manejo Texto\obj\Debug\Manejo Texto.csproj.SuggestedBindingRedirects.cache
+C:\Users\APRENDIZ\source\repos\Manejo Texto\Manejo Texto\obj\Debug\Manejo Texto.csproj.CoreCompileInputs.cache
+C:\Users\APRENDIZ\source\repos\Manejo Texto\Manejo Texto\bin\Debug\Manejo Texto.exe.config
+C:\Users\APRENDIZ\source\repos\Manejo Texto\Manejo Texto\bin\Debug\Manejo Texto.exe
+C:\Users\APRENDIZ\source\repos\Manejo Texto\Manejo Texto\bin\Debug\Manejo Texto.pdb
+C:\Users\APRENDIZ\source\repos\Manejo Texto\Manejo Texto\obj\Debug\Manejo Texto.exe
+C:\Users\APRENDIZ\source\repos\Manejo Texto\Manejo Texto\obj\Debug\Manejo Texto.pdb
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\Manejo Texto\Manejo Texto\bin\Debug\Manejo Texto.exe.config
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\Manejo Texto\Manejo Texto\bin\Debug\Manejo Texto.exe
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\Manejo Texto\Manejo Texto\bin\Debug\Manejo Texto.pdb
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\Manejo Texto\Manejo Texto\obj\Debug\Manejo Texto.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\Manejo Texto\Manejo Texto\obj\Debug\Manejo Texto.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\Manejo Texto\Manejo Texto\obj\Debug\Manejo Texto.exe
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\Manejo Texto\Manejo Texto\obj\Debug\Manejo Texto.pdb
